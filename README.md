@@ -1,4 +1,4 @@
-### Hi there My name is Shir Meir, I'm  Data lover
+### Hi there My name is Shir Meir, I'm  Data enthusiastic
 I’m currently working on projects in data anylsis using SQL, Python and Tableau.
 How to reach me: My email is: Shir.1996m@gmail.com
 And here is my Tableau page: https://public.tableau.com/app/profile/shir.meir
